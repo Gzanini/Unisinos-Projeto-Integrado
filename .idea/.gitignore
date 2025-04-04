@@ -1,0 +1,57 @@
+# ----------------------------------------
+# PyCharm
+# ----------------------------------------
+.idea/
+*.iml
+/shelf/
+/workspace.xml
+
+# ----------------------------------------
+# Python
+# ----------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.env
+*.venv
+.env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ----------------------------------------
+# Virtual environments
+# ----------------------------------------
+venv/
+ENV/
+env/
+.venv/
+
+# ----------------------------------------
+# Jupyter notebooks (opcional)
+.ipynb_checkpoints/
+
+# ----------------------------------------
+# Airflow (opcional)
+airflow.db
+logs/
+unittests.cfg
+
+# ----------------------------------------
+# OS files
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------
+# VSCode (caso alguém use junto)
+.vscode/
+
+# ----------------------------------------
+# Arquivos temporários ou pessoais
+*.bak
+*.tmp
+*.swp
