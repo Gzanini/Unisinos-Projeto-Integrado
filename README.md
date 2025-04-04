@@ -4,8 +4,6 @@ Repositório criado para o desenvolvimento do projeto da disciplina de Projeto I
 
 Este projeto reúne conhecimentos de engenharia de dados aplicados à construção de uma plataforma de integração e análise de dados, com foco em tecnologias como Apache Airflow e Google Cloud Platform (GCP).
 
----
-
 ## 🔍 Visão Geral
 
 Este projeto tem como objetivo construir uma plataforma automatizada de coleta, tratamento e disponibilização de dados de criptomoedas, utilizando tecnologias como Apache Airflow e Google Cloud Platform.
